@@ -18,3 +18,14 @@ def main():
 
         
 main()
+
+
+>>
+
+This program calculates the future value of a yearly investment
+
+Enter amount to invest each year : 6
+Enter the annual interest rate : 2
+Enter the number of years: 1
+The amount in 1 years is: 18.0
+Press any key to continue . . .
