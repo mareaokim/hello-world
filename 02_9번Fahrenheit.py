@@ -10,3 +10,12 @@ def main():
 
 
 main() 
+
+
+>>>
+
+The program converts temperratures from Fahrenheit to Celsius
+
+What is the Fahrenheit temperature?56
+The temperature is 13.333333333333334 degrees Celsius
+Press any key to continue . . .
