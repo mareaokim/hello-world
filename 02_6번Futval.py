@@ -15,3 +15,16 @@ def main():
 
         
 main()
+
+
+
+
+>>>>>
+
+This program calculates the future value
+
+Enter the initial principal : 6900
+Enter the annual interest rate: 0.69
+Enter the number of years: 1
+The amount in 1 years is: 11661.0
+Press any key to continue . . .
