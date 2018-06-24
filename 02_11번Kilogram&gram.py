@@ -9,3 +9,11 @@ def main():
 
 
 main()
+
+
+>>>
+
+This program converts Kilogram to Gram.
+Enter the distance in Kilogram : 69
+The distance is 69000 gram.
+Press any key to continue . . .
