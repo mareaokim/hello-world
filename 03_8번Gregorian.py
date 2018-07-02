@@ -10,3 +10,13 @@ def main():
     print("The epact value is" , epact, "days.")
 
 main()
+
+
+>>>>>>>>>>>>>>>
+
+Gregorian epact value of year.
+
+Enter the year (e.g. 2020) : 2030
+
+The epact value is 25 days.
+Press any key to continue . . .
