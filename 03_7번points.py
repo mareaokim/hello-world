@@ -18,3 +18,16 @@ def main():
 
 main() 
 
+>>>>>>>>
+
+This program calculates the distance between two points.
+
+Enter the x for the first points : 9
+Enter the y for the first points : 5.6
+
+Enter the x for the second points : 222.3
+Enter the y for the second points : 36
+
+The distance between the points is 215.4554478308683
+Press any key to continue . . .
+
