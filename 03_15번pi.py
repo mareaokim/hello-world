@@ -19,3 +19,14 @@ def main():
     print("Difference from math.pi:",math.pi-total)
 
 main()
+
+
+>>>>>>>>>>>>>>>>>>>>>>>
+
+approximates the value of pi by summing a fixed
+number of terms in a series.
+
+How many terms should i use?89
+Approximation to pi is: 3.1528282540763923
+Difference from math.pi: -0.011235600486599218
+Press any key to continue . . .
