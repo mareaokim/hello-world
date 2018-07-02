@@ -19,3 +19,13 @@ def main():
 main()
 
 
+>>>>>>>>>>>>
+
+This program helps to determine the length of ladder needed
+to reach a give height.
+
+How high must you reach? 9.9
+What will the ladder angle be (in degrees)?6
+
+Length of ladder required : 94.71104511170572
+Press any key to continue . . .
