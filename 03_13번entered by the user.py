@@ -12,3 +12,13 @@ def main():
         print("The sum of the numbers is:" , total)
 
 main()
+
+>>>>>
+
+allows you to total up some numbers
+
+How many numbers do you have? : 98
+Enter a number:5
+
+The sum of the numbers is: 5.0
+Enter a number:
