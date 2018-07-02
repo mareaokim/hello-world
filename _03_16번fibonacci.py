@@ -11,3 +11,24 @@ def main():
         print("The nth Fibonacci number is",curr)
 
 main()
+
+>>>>>>>>>>
+
+Fibonacci value
+
+Enter the value of n:8
+
+The nth Fibonacci number is 2
+
+The nth Fibonacci number is 3
+
+The nth Fibonacci number is 5
+
+The nth Fibonacci number is 8
+
+The nth Fibonacci number is 13
+
+The nth Fibonacci number is 21
+Press any key to continue . . .
+
+
