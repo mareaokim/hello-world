@@ -14,3 +14,16 @@ def main():
     print("Total due : ",coffeeCost + shipping)
 
 main()
+
+
+>>>>>>>>>>
+
+Welcome to the Konditorei.
+
+How many pounds of coffee do you want? 9.63
+
+Cost of coffee :  101.11500000000001
+Shipping :  9.7818
+-----------------------------------------------
+Total due :  110.89680000000001
+Press any key to continue . . .
