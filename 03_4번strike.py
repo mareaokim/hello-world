@@ -11,3 +11,13 @@ def main():
     print("The lightning is approximately" , round(miles,1) , "miles away.")
 
 main()
+
+
+>>>
+
+This program calculates the distance from a lightning strike.
+
+Enter number of seconds between flash and crush : 6900
+
+The lightning is approximately 1437.5 miles away.
+Press any key to continue . . .
